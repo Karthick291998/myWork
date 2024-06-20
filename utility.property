@@ -1,0 +1,7 @@
+#updated
+#Thu Jun 20 17:32:21 IST 2024
+firstname=//input[@name\='firstname']
+lastname=//input[@name='lastname']
+email=//input[@name='reg_email__']
+password=//input[@name='reg_passwd__']
+day=//select[@id='day']
